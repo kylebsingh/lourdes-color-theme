@@ -1,6 +1,6 @@
 # Lourdes
 
-"Lourdes (Light UI | Dark Editor)"
+Lourdes (Light UI | Dark Editor). For those that appreciate a little more contracts between the UI and the editor.
 
 ## Usage
 
