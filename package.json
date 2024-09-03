@@ -1,0 +1,21 @@
+{
+  "name": "lourdes-color-theme",
+  "displayName": "Lourdes Color Theme",
+  "description": "Lourdes Color Theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lourdes",
+        "uiTheme": "vs",
+        "path": "./themes/lourdes.json"
+      }
+    ]
+  }
+}
