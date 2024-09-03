@@ -3,6 +3,10 @@
   "displayName": "Lourdes Color Theme",
   "description": "Lourdes Color Theme",
   "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+		"url": "https://github.com/kylebsingh/lourdes-color-theme"
+	},
   "engines": {
     "vscode": "^1.92.0"
   },
