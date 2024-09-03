@@ -1,17 +1,27 @@
 {
   "name": "lourdes-color-theme",
-  "displayName": "Lourdes Color Theme",
-  "description": "Lourdes Color Theme",
-  "version": "1.0.0",
+  "displayName": "Lourdes",
+  "description": "Lourdes (Light UI | Dark Editor)",
+  "version": "1.0.1",
   "license": "MIT",
+  "publisher": "kylebsingh",
   "repository": {
-		"url": "https://github.com/kylebsingh/lourdes-color-theme"
-	},
+    "url": "https://github.com/kylebsingh/lourdes-color-theme"
+  },
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "minimal",
+    "aesthetic",
+    "contrast",
+    "clear",
+    "dark editor",
+    "light ui"
   ],
   "contributes": {
     "themes": [
