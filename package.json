@@ -2,7 +2,7 @@
   "name": "lourdes-color-theme",
   "displayName": "Lourdes",
   "description": "Lourdes (Light UI | Dark Editor)",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "license": "MIT",
   "publisher": "kylebsingh",
   "repository": {
@@ -29,6 +29,21 @@
         "label": "Lourdes",
         "uiTheme": "vs",
         "path": "./themes/lourdes.json"
+      },
+      {
+        "label": "Lourdes Coffee",
+        "uiTheme": "vs",
+        "path": "./themes/lourdes-coffee.json"
+      },
+      {
+        "label": "Lourdes Cream",
+        "uiTheme": "vs",
+        "path": "./themes/lourdes-cream.json"
+      },
+      {
+        "label": "Lourdes Experiment",
+        "uiTheme": "vs",
+        "path": "./themes/lourdes-matcha.json"
       }
     ]
   }

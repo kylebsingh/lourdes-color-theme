@@ -1,3 +1,6 @@
+## [2.0.0]
+- Add `Lourdes Coffee`, `Lourdes Cream` and `Lourdes Matcha`.
+
 ## [1.0.3]
 - Update screenshot
 - Lighten activity bar, sidebar and statusbar.
