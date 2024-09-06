@@ -1,3 +1,7 @@
+## [1.0.3]
+- Update screenshot
+- Lighten activity bar, sidebar and statusbar.
+
 ## [1.0.2]
 - Screenshot Update
 - Icon Update
