@@ -2,7 +2,7 @@
   "name": "lourdes-color-theme",
   "displayName": "Lourdes",
   "description": "Lourdes (Light UI | Dark Editor)",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "MIT",
   "publisher": "kylebsingh",
   "repository": {
@@ -41,7 +41,7 @@
         "path": "./themes/lourdes-cream.json"
       },
       {
-        "label": "Lourdes Experiment",
+        "label": "Lourdes Matcha",
         "uiTheme": "vs",
         "path": "./themes/lourdes-matcha.json"
       }
